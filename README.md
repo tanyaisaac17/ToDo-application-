@@ -44,6 +44,21 @@ Users can add tasks, mark them as complete, delete them, and filter by status. A
 
 ## ⚙️ Setup Instructions
 
+This project requires no installation or dependencies. It runs entirely in the browser.
+1. Clone the repository
+bashgit clone https://github.com/tanyaisaac17/ToDo-application-.git
+cd ToDo-application-
+2. Open the project
+Simply open index.html in any modern web browser. No build steps or server required.
+Alternatively, if you're using VS Code or Cursor, you can use the Live Server extension for a better development experience:
+
+Install the Live Server extension
+Right click index.html → Open with Live Server
+The app will open at localhost:5500 and auto-refresh on save
+
+3. That's it!
+The app will load instantly. Your tasks are automatically saved to your browser's localStorage.
+
 
 ---
 
