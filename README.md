@@ -49,9 +49,9 @@ Users can add tasks, mark them as complete, delete them, and filter by status. A
 
 ## 📸 Screenshots
 
+<img width="1854" height="903" alt="image" src="https://github.com/user-attachments/assets/7062b0b2-01c9-4f1f-accb-87ea19810118" />
 
-![Login Screen](screenshot-login.png)
-![Todo App](screenshot-app.png)
-```
+<img width="1020" height="858" alt="image" src="https://github.com/user-attachments/assets/ba677658-f3bf-468d-a8e4-3713f2da7e61" />
 
--
+<img width="838" height="727" alt="image" src="https://github.com/user-attachments/assets/1030db74-d2a1-43d4-91fd-48ed33e77c1e" />
+
